@@ -1,6 +1,7 @@
+<h1><strong>Cosmin Popescu</strong></h1>
+<h5><strong>Offensive Researcher & Penetration Tester from Bucharest, Romania</strong></h5>
+
 <p align="center">
-  <h1><strong>Cosmin Popescu</strong></h1><h5><strong>Offensive Researcher & Penetration Tester from Bucharest, Romania</strong></h5>
-  
   <img src="https://gpvc.arturio.dev/cosminpopesq" alt="profile views">   
   <a href="https://twitter.com/intent/follow?screen_name=penteor_com&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/penteor_com?label=%40penteor&style=social"></a>  
   <a href="https://icosmin.ro"><img src="https://img.shields.io/badge/Blog-Personal-green"></a>  
