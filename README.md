@@ -1,16 +1,24 @@
-### Hi there 👋
+<center><h1><strong>Cosmin Popescu</strong></h1><h5><strong>Offensive Researcher & Penetration Tester from Bucharest, Romania</strong></h5></center>
 
-<!--
-**cosminpopesq/cosminpopesq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://gpvc.arturio.dev/cosminpopesq" alt="profile views">   
+  <a href="https://twitter.com/intent/follow?screen_name=penteor_com&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/penteor_com?label=%40penteor&style=social"></a>  
+  <a href="https://icosmin.ro"><img src="https://img.shields.io/badge/Blog-Personal-green"></a>  
+  <a href="https://www.linkedin.com/in/cosminpopesq/"><img src="https://img.shields.io/badge/Linkedin-Personal-blue"></a> 
+  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Professional skills
+
+- Red Team
+- Network Penetration Testing
+- Web Application Penetration Testing
+- Mobile Application Penetration Testing
+- Wireless Penetration Testing
+- Embedded Device Testing
+- Reverse Engineering
+- Exploit Development
+- Incident Response
+- Social Engineering
+- Python/Django Developer
+- MQL Developer
