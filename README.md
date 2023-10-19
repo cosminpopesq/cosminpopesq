@@ -15,7 +15,3 @@
 - Social Engineering
 - Python/Django Developer
 - MQL Developer
-
-### Activity Graph
-
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=cosminpopesq&custom_title=Cosmin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/cosminpopesq/github-readme-activity-graph)
